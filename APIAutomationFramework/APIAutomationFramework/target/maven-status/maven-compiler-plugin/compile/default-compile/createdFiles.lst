@@ -1,0 +1,9 @@
+com/api/test/prop/BaseClass.class
+com/api/test/util/GenericHelper.class
+com/api/test/util/PropertyReader.class
+com/api/test/mappings/response/Book.class
+com/api/test/mappings/response/getAllBooksResponse.class
+com/api/test/util/GetProperty.class
+com/api/test/util/RestAssuredUtil.class
+com/api/test/util/MyTestNGListener.class
+com/api/test/APIContants.class

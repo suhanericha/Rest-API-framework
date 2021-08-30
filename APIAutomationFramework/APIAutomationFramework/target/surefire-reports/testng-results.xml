@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="2410" started-at="2021-08-28T13:38:43Z" finished-at="2021-08-28T13:38:46Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="2410" started-at="2021-08-28T13:38:43Z" finished-at="2021-08-28T13:38:46Z">
+      <class name="com.api.test.getBooksTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:com.api.test.getBooksTest@2a5ca609]" name="config" is-config="true" duration-ms="62" started-at="2021-08-28T19:08:43Z" finished-at="2021-08-28T19:08:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.api.test.getBooksTest@2a5ca609]" name="setUp" is-config="true" duration-ms="2" started-at="2021-08-28T19:08:43Z" finished-at="2021-08-28T19:08:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getAllBooksData()[pri:0, instance:com.api.test.getBooksTest@2a5ca609]" name="getAllBooksData" duration-ms="2335" started-at="2021-08-28T19:08:43Z" finished-at="2021-08-28T19:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllBooksData -->
+      </class> <!-- com.api.test.getBooksTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
